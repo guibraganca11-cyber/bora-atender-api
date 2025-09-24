@@ -1,0 +1,16 @@
+{
+  "name": "bora-atender-api",
+  "version": "1.0.0",
+  "description": "API para WhatsApp Bot Bora Atender",
+  "main": "pages/api/status.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
